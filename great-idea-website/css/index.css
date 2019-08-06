@@ -64,3 +64,8 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+.container {
+	width: 1024px;
+	margin: 0 auto;
+	background: pink;
+}
